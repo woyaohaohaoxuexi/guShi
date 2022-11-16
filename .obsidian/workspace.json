@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "9bad36b8ec855a4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce456a20e980bf46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d851b9578866c4e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "复盘/2022-10/10-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7675223132994929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "复盘/2022-11/02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c817cbfe6826c86d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "悟道之路/看盘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e7a99c2447a8d82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "趋势票/说明.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2d37543f3d6ef7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "买入/突然放量.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3e2cf57b9c36292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "悟道之路/竞价.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "1e0ead2bc56874aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab6b47e6d3f258a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "悟道之路/买卖点.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8193f4128d68e3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "60d87a552277bfa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f597f81343d165a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf75ac06e70c1cb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "![](images/Pasted%20image%2020221009174450.png)",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "423dacca8962e34e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 436
+  },
+  "right": {
+    "id": "2c26ca0d2aa68575",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d6de387e9cbcf25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cee1c903a8886e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "悟道之路/买卖点.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b0a5c0dd6702129",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "悟道之路/买卖点.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de462f4281395159",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "悟道之路/买卖点.md"
+              }
+            }
+          },
+          {
+            "id": "171b28317f4a4ee3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "active": "ab6b47e6d3f258a9",
+  "lastOpenFiles": [
+    "复盘/2022-11/02.md",
+    "悟道之路/竞价.md",
+    "悟道之路/感受情绪.md",
+    "悟道之路/感悟.md",
+    "天哥笔记/量能.md",
+    "买入/突然放量.md",
+    "趋势票/经典案例解析.md",
+    "趋势票/说明.md",
+    "趋势票/2022-10-22.md",
+    "悟道之路/趋势股.md"
+  ]
+}

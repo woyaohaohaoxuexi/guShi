@@ -1,0 +1,20 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "vimMode": false,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./images",
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "foldIndent": true
+}
